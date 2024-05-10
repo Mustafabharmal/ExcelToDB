@@ -1,0 +1,265 @@
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/xltodb.dll.config
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/xltodb.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/xltodb.pdb
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/csc.exe
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/csc.exe.config
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/csc.rsp
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/csi.exe
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/csi.exe.config
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/csi.rsp
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.AppContext.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Console.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.IO.Compression.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Net.Http.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Net.Sockets.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.ValueTuple.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/vbc.exe
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/vbc.exe.config
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/vbc.rsp
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/VBCSCompiler.exe
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/Antlr3.Runtime.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/EntityFramework.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/EntityFramework.SqlServer.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/ExcelDataReader.DataSet.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/ExcelDataReader.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/Newtonsoft.Json.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/System.Web.Helpers.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/System.Web.Mvc.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/System.Web.Optimization.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/System.Web.Razor.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/System.Web.WebPages.Deployment.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/System.Web.WebPages.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/System.Web.WebPages.Razor.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/WebGrease.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/EntityFramework.xml
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/EntityFramework.SqlServer.xml
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/ExcelDataReader.pdb
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/ExcelDataReader.xml
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/ExcelDataReader.DataSet.pdb
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/ExcelDataReader.DataSet.xml
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/System.Web.Helpers.xml
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/System.Web.Mvc.xml
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/System.Web.Optimization.xml
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/System.Web.Razor.xml
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/System.Web.WebPages.xml
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/System.Web.WebPages.Deployment.xml
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/System.Web.WebPages.Razor.xml
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/Newtonsoft.Json.xml
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/Antlr3.Runtime.pdb
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/obj/Debug/xltodb.csproj.AssemblyReference.cache
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/obj/Debug/xltodb.csproj.CoreCompileInputs.cache
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/obj/Debug/xltodb.csproj.CopyComplete
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/obj/Debug/xltodb.dll
+C:/Users/Asus/Documents/.Net/SpclTask/xltodb/xltodb/obj/Debug/xltodb.pdb
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/xltodb.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/xltodb.pdb
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/csc.exe
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/csc.exe.config
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/csc.rsp
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/csi.exe
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/csi.exe.config
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/csi.rsp
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/Microsoft.Win32.Primitives.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.AppContext.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Collections.Immutable.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Console.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Globalization.Calendars.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.IO.Compression.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.IO.Compression.ZipFile.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.IO.FileSystem.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Net.Http.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Net.Sockets.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Reflection.Metadata.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.ValueTuple.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Xml.XPath.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/vbc.exe
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/vbc.exe.config
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/vbc.rsp
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/VBCSCompiler.exe
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/roslyn/VBCSCompiler.exe.config
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/Antlr3.Runtime.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/EntityFramework.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/EntityFramework.SqlServer.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/ExcelDataReader.DataSet.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/ExcelDataReader.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/Microsoft.Web.Infrastructure.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/Newtonsoft.Json.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/System.Web.Helpers.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/System.Web.Mvc.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/System.Web.Optimization.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/System.Web.Razor.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/System.Web.WebPages.Deployment.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/System.Web.WebPages.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/System.Web.WebPages.Razor.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/WebGrease.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/EntityFramework.xml
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/EntityFramework.SqlServer.xml
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/ExcelDataReader.pdb
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/ExcelDataReader.xml
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/ExcelDataReader.DataSet.pdb
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/ExcelDataReader.DataSet.xml
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/System.Web.Helpers.xml
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/System.Web.Mvc.xml
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/System.Web.Optimization.xml
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/System.Web.Razor.xml
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/System.Web.WebPages.xml
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/System.Web.WebPages.Deployment.xml
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/System.Web.WebPages.Razor.xml
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/Newtonsoft.Json.xml
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/Antlr3.Runtime.pdb
+/Users/mrperfect/Downloads/xltodb/xltodb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/mrperfect/Downloads/xltodb/xltodb/obj/Debug/xltodb.csproj.AssemblyReference.cache
+/Users/mrperfect/Downloads/xltodb/xltodb/obj/Debug/xltodb.csproj.CoreCompileInputs.cache
+/Users/mrperfect/Downloads/xltodb/xltodb/obj/Debug/xltodb.csproj.CopyComplete
+/Users/mrperfect/Downloads/xltodb/xltodb/obj/Debug/xltodb.dll
+/Users/mrperfect/Downloads/xltodb/xltodb/obj/Debug/xltodb.pdb
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/xltodb.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/xltodb.pdb
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/csc.exe
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/csc.exe.config
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/csc.rsp
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/csi.exe
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/csi.exe.config
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/csi.rsp
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/Microsoft.Win32.Primitives.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.AppContext.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Collections.Immutable.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Console.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Globalization.Calendars.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.IO.Compression.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.IO.Compression.ZipFile.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.IO.FileSystem.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Net.Http.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Net.Sockets.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Reflection.Metadata.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.ValueTuple.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Xml.XPath.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/vbc.exe
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/vbc.exe.config
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/vbc.rsp
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/VBCSCompiler.exe
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/roslyn/VBCSCompiler.exe.config
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/Antlr3.Runtime.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/EntityFramework.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/EntityFramework.SqlServer.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/ExcelDataReader.DataSet.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/ExcelDataReader.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/Microsoft.Web.Infrastructure.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/Newtonsoft.Json.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/System.Web.Helpers.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/System.Web.Mvc.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/System.Web.Optimization.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/System.Web.Razor.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/System.Web.WebPages.Deployment.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/System.Web.WebPages.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/System.Web.WebPages.Razor.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/WebGrease.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/EntityFramework.xml
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/EntityFramework.SqlServer.xml
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/ExcelDataReader.pdb
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/ExcelDataReader.xml
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/ExcelDataReader.DataSet.pdb
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/ExcelDataReader.DataSet.xml
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/System.Web.Helpers.xml
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/System.Web.Mvc.xml
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/System.Web.Optimization.xml
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/System.Web.Razor.xml
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/System.Web.WebPages.xml
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/System.Web.WebPages.Deployment.xml
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/System.Web.WebPages.Razor.xml
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/Newtonsoft.Json.xml
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/Antlr3.Runtime.pdb
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/obj/Debug/xltodb.csproj.AssemblyReference.cache
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/obj/Debug/xltodb.csproj.CoreCompileInputs.cache
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/obj/Debug/xltodb.csproj.CopyComplete
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/obj/Debug/xltodb.dll
+/Users/mrperfect/Work/Sem-5/Dot Net/Dotnet/xltodb/xltodb/obj/Debug/xltodb.pdb

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{8E4DFE7C-A66D-4A84-87CC-E2BF0D34A17A}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Employee/Edit.cshtml">
+    <Files>
+      <File FileName="Views/Employee/Index.cshtml" Line="32" Column="22" />
+      <File FileName="Controllers/EmployeeController.cs" Line="127" Column="71" />
+      <File FileName="Models/Employee.cs" Line="7" Column="30" />
+      <File FileName="Views/Employee/EmptyHtmlFile.html" Line="1" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="xltodb" expanded="True">
+            <Node name="xltodb" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Employee" expanded="True">
+                  <Node name="Edit.cshtml" selected="True" />
+                </Node>
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Global.asax" expanded="True" />
+              <Node name="Web.config" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.xltodb PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

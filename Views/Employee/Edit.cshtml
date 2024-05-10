@@ -1,0 +1,29 @@
+﻿@model YourNamespace.Employee
+
+@{
+    ViewBag.Title = "Edit Employee";
+}
+
+<h2>Edit Employee</h2>
+
+@using (Html.BeginForm("Update", "Employee", FormMethod.Post))
+{
+    @Html.HiddenFor(model => model.Id)
+
+    @Html.LabelFor(model => model.EmployeeName)
+    @Html.EditorFor(model => model.EmployeeName)
+
+    @Html.LabelFor(model => model.ContactNumber)
+    @Html.EditorFor(model => model.ContactNumber)
+
+    @Html.LabelFor(model => model.Address)
+    @Html.EditorFor(model => model.Address)
+
+    @Html.LabelFor(model => model.Gender)
+    @Html.EditorFor(model => model.Gender)
+
+    @Html.LabelFor(model => model.Education)
+    @Html.EditorFor(model => model.Education)
+
+<input type="submit" value="Update" />
+}
